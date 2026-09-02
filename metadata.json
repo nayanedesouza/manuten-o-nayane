@@ -1,0 +1,6 @@
+{
+  "name": "Especificação Técnica - Manutenção Veicular",
+  "description": "Especificação técnica arquitetural completa, modelo de dados, fluxos, telas e protótipo funcional para controle de manutenção veicular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
